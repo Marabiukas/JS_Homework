@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "hw-fun": "nodemon ./0401-fun/homework.js",
     "hw-for": "nodemon ./0401-for/homework.js",
     "hw-if": "nodemon ./0330/homework.js",
     "test": "echo \"Error: no test specified\" && exit 1"
