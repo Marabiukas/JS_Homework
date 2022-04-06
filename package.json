@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "hw-while": "nodemon ./0406-while/homework.js",
     "hw-fun": "nodemon ./0401-fun/homework.js",
     "hw-for": "nodemon ./0401-for/homework.js",
     "hw-if": "nodemon ./0330/homework.js",
