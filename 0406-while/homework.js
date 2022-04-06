@@ -74,7 +74,7 @@ let ciklas = 1;
 console.log(atsskaicius);
 
 while (atsskaicius !=7 ) {
-    atsskaicius = rand(0, 10)
+    atsskaicius = rand(0, 10);
     console.log(atsskaicius);
     ciklas++;
 }
